@@ -12,7 +12,7 @@ Run it inside Docker network and _troubleshoot_... things. Good luck!
 
 Run container inside the Docker network, and map current folder to the home:
 
-	docker run -it --net wedeploy -v `pwd`:/root oblac/dockduck
+	docker run -it --net networkname -v `pwd`:/root oblac/dockduck
 
 Just shell into container:
 
