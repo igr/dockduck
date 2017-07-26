@@ -3,7 +3,7 @@
 
 ![](duck.png)
 
-This is ![Docker](http://docker.com) small and simple troubleshooting container.
+This is [Docker](http://docker.com) small and simple troubleshooting container.
 Run it inside Docker network and troubleshoot... things. Good luck!
 
 ## :bulb: Usage
@@ -16,9 +16,9 @@ Happy hacking!
 
 ## ❤ Based on
 
-Of course, others have similar thoughts
+Of course, other people have similar idea:
 
-+ [NetShot](https://github.com/nicolaka/netshoot) - yeah, this is the base. I just need more. They don't. That's all.
-+ [NetShot fork](https://github.com/cirocosta/netshoot) - Something like this. Just need little more, and something less :)
++ [NetShot](https://github.com/nicolaka/netshoot) - yeah, this is the base. I just need more. They don't. That's fine.
++ [NetShot fork](https://github.com/cirocosta/netshoot) - Something like this. Just need little more and something less :)
 
 Open-source FTW! I guess.
