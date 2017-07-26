@@ -40,7 +40,8 @@ RUN pip install --upgrade pip && \
 # apparmor issue #14140
 RUN mv /usr/sbin/tcpdump /usr/bin/tcpdump
 
-ADD netgen.sh /usr/local/bin/netgen
+ADD scripts/netgen.sh /usr/local/bin/netgen
+ADD scripts/entrypoint.sh /opt/entrypoint.sh
 
-ENTRYPOINT [ "/bin/bash" ]
-#CMD ["sh"]
+ENTRYPOINT [ "/opt/entrypoint.sh"]
+CMD "bash"
