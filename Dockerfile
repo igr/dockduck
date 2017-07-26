@@ -31,7 +31,8 @@ RUN set -ex \
     the_silver_searcher \
     python \
     py-pip \
-    ca-certificates
+    ca-certificates \
+    bind-tools
 
 RUN pip install --upgrade pip && \
     pip install httpie httpie-unixsocket && \

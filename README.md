@@ -20,25 +20,7 @@ Happy hacking!
 
 ## :package: What's insde?
 
-+ bash :)
-+ tcpdump
-+ bridge-utils, util-linux, apache2-utils, conntrack-tools
-+ netcat
-+ iptables, iputils, iproute2
-+ iftop
-+ drill
-+ strace
-+ curl, httpie
-+ ethtool
-+ ipvsadm
-+ ngrep
-+ iperf
-+ nmap
-+ jq
-+ vim, nano
-+ git
-+ tree, the_silver_searcher
-+ python, py-pip
+See [Dockerfile](Dockerfile) for complete list of installed packages and tools.
 
 ## :thumbsup: Contribute!
 
