@@ -6,6 +6,8 @@
 **DockDuck** is the swiss-army knife toolbox [Docker](http://docker.com) container.
 Run it inside Docker network and _troubleshoot_... things. Good luck!
 
+> oblac/dockduck
+
 ## :bulb: Usage
 
 Run container inside the Docker network, and map current folder to the home:
