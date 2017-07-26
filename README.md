@@ -1,4 +1,5 @@
 # DockDuck - troubleshot Docker inside-out
+[![Docker Pulls](https://img.shields.io/docker/pulls/oblac/dockduck.svg)]()
 
 ![](duck.png)
 
